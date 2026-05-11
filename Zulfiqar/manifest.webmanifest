@@ -1,0 +1,16 @@
+{
+  "name": "Zulfiqar Computers",
+  "short_name": "Zulfiqar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#0f7b6c",
+  "icons": [
+    {
+      "src": "5071cff4-288b-44db-a039-54858f16f0f0.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
